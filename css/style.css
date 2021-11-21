@@ -380,4 +380,10 @@ body {
   #content3 {
     width: 490px;
   }
+  #logo {
+    left: 90%;
+  }
+  #content9 { 
+    left: 11.5%;
+  }
 }
